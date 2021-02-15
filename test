@@ -1,0 +1,9 @@
+
+
+[1, 2, 3, 4].count do |element|
+  element.even?
+  puts element
+
+end
+
+puts [1,2,3,4].count
